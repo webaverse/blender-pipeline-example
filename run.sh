@@ -1,0 +1,1 @@
+blender -b -P "glb_to_vrm.py" moon
